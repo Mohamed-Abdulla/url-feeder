@@ -1,0 +1,2 @@
+1. use spring initializer with mvn and web dependency to create spring boot rest api
+2. mvn clean install  for creating jar file (built file)
